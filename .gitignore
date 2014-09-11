@@ -1,0 +1,6 @@
+# Exclude the build directories
+/ChristmasBoard-desktop/bin
+/ChristmasBoard-android/bin
+
+# Exclude OS X folder attributes
+.DS_Store

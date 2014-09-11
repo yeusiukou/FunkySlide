@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="by/aleks/christmasboard/gui/Sack.java|by/aleks/christmasboard/data/BitmapFontShader.java|by/aleks/christmasboard/data/FontBase.java|by/aleks/christmasboard/screens/MenuScreen.java|by/aleks/christmasboard/data/BitmapFontWriter.java|by/aleks/christmasboard/data/SmartFontGenerator.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-freetype.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
