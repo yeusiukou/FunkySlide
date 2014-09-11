@@ -12,7 +12,7 @@ FunkySlide is a simple puzzle game, where you have a 4x4 board with 15 elements 
 Also you've got snow piles which you can't move but can destroy with bombs. The rules are simple: save all good presents from bombs and put them to the sack. With every destroyed good present you lose one life, the same rule is about putting wrong presents to the sack. The game is over when you make 5 mistakes or put a bomb to the sack.
 There are bonuses (exploding 4 and more bad elements at a time, sliding 4 and more elements to the sack). The game has an online leaderboard in Google Play Games, so players can share their results with friends.
 
-<a href="https://play.google.com/store/apps/details?id=by.aleks.christmasboard"><img src="https://lh4.googleusercontent.com/LywbzJoFNL3A1DdnTb8EtGlxLVd9WcmVFiz3Y26zWLDT9DTEnCliHZTJ8GJStPhptwgqZY6hrjc=w1290-h570" width="250" height="74" ></a>
+<a href="https://play.google.com/store/apps/details?id=by.aleks.christmasboard"><img src="http://www.mymagic106.com/upload/button-get-it-on-google-play.png" width="250" height="74" ></a>
 
 ### Some creation details
 
