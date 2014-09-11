@@ -1,4 +1,4 @@
-data\\game.png
+game.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
