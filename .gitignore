@@ -2,6 +2,8 @@
 /ChristmasBoard-desktop/bin
 /ChristmasBoard-android/bin
 /ChristmasBoard/bin
+/BaseGameUtils/bin
+/google-play-services_lib/bin
 
 # Exclude OS X folder attributes
 .DS_Store
