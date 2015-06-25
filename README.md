@@ -26,9 +26,9 @@ Even though I added the code for desktops, all fun is when you play it on a touc
 ### Screenshots
 
 <div id="pics" style=display:inline>
-<img src="https://lh3.ggpht.com/RhVqP01T5yviyvPIlQFmA6Uea_X4bCQ_dUCFdcVgrJtvs6p65hm_hm_YexHAhy6ez1D7=h310-rw">
-<img src="https://lh5.ggpht.com/mOtI9rk1yTlT_HwJLARcVJ0WQT38_TvDOj3FPkdRQzzSO6aCSXTWadyRdI8s5bxAjLoI=h310-rw">
-<img src="https://lh6.ggpht.com/tNvb2vko-LKtFiui3KThCKIPMXjRQlt5pPDGv5sOD8er3-sQDrZvHCtc9NcAARLSog=h310-rw">
+<img src="https://lh3.ggpht.com/RhVqP01T5yviyvPIlQFmA6Uea_X4bCQ_dUCFdcVgrJtvs6p65hm_hm_YexHAhy6ez1D7=h310">
+<img src="https://lh5.ggpht.com/mOtI9rk1yTlT_HwJLARcVJ0WQT38_TvDOj3FPkdRQzzSO6aCSXTWadyRdI8s5bxAjLoI=h310">
+<img src="https://lh6.ggpht.com/tNvb2vko-LKtFiui3KThCKIPMXjRQlt5pPDGv5sOD8er3-sQDrZvHCtc9NcAARLSog=h310">
 </div>
 
 
