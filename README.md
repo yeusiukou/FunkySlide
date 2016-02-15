@@ -12,7 +12,10 @@ FunkySlide is a simple puzzle game, where you have a 4x4 board with 15 elements 
 Also you've got snow piles which you can't move but can destroy with bombs. The rules are simple: save all good presents from bombs and put them to the sack. With every destroyed good present you lose one life, the same rule is about putting wrong presents to the sack. The game is over when you make 5 mistakes or put a bomb to the sack.
 There are bonuses (exploding 4 and more bad elements at a time, sliding 4 and more elements to the sack). The game has an online leaderboard in Google Play Games, so players can share their results with friends.
 
-<a href="https://play.google.com/store/apps/details?id=by.aleks.christmasboard"><img src="http://www.mymagic106.com/upload/button-get-it-on-google-play.png" width="250" height="74" ></a>
+<a href="https://play.google.com/store/apps/details?id=by.aleks.christmasboard">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+</a>
 
 ### Some creation details
 
@@ -23,9 +26,9 @@ Even though I added the code for desktops, all fun is when you play it on a touc
 ### Screenshots
 
 <div id="pics" style=display:inline>
-<img src="https://lh3.ggpht.com/RhVqP01T5yviyvPIlQFmA6Uea_X4bCQ_dUCFdcVgrJtvs6p65hm_hm_YexHAhy6ez1D7=h310-rw">
-<img src="https://lh5.ggpht.com/mOtI9rk1yTlT_HwJLARcVJ0WQT38_TvDOj3FPkdRQzzSO6aCSXTWadyRdI8s5bxAjLoI=h310-rw">
-<img src="https://lh6.ggpht.com/tNvb2vko-LKtFiui3KThCKIPMXjRQlt5pPDGv5sOD8er3-sQDrZvHCtc9NcAARLSog=h310-rw">
+<img src="https://lh3.ggpht.com/RhVqP01T5yviyvPIlQFmA6Uea_X4bCQ_dUCFdcVgrJtvs6p65hm_hm_YexHAhy6ez1D7=h310">
+<img src="https://lh5.ggpht.com/mOtI9rk1yTlT_HwJLARcVJ0WQT38_TvDOj3FPkdRQzzSO6aCSXTWadyRdI8s5bxAjLoI=h310">
+<img src="https://lh6.ggpht.com/tNvb2vko-LKtFiui3KThCKIPMXjRQlt5pPDGv5sOD8er3-sQDrZvHCtc9NcAARLSog=h310">
 </div>
 
 
