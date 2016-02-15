@@ -58,7 +58,7 @@ public class SplashScreen extends AbstractScreen{
 	}
 	
 	private void createSplash(){
-		TextureAtlas splashAtlas = new TextureAtlas(Gdx.files.internal("data\\splash.pack"));
+		TextureAtlas splashAtlas = new TextureAtlas(Gdx.files.internal("data/splash.pack"));
 		TextureRegion logoRegion = splashAtlas.findRegion("logo");
 		TextureRegion loadingRegion = splashAtlas.findRegion("loading");
 		

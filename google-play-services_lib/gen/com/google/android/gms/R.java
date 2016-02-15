@@ -395,29 +395,29 @@ containing a value of this type.
         public static int powered_by_google_light=0x7f02001d;
     }
     public static final class id {
-        public static int book_now=0x7f050010;
-        public static int buyButton=0x7f05000a;
-        public static int buy_now=0x7f05000f;
-        public static int buy_with_google=0x7f05000e;
-        public static int classic=0x7f050011;
-        public static int grayscale=0x7f050012;
-        public static int holo_dark=0x7f050005;
-        public static int holo_light=0x7f050006;
-        public static int hybrid=0x7f050004;
-        public static int match_parent=0x7f05000c;
-        public static int monochrome=0x7f050013;
-        public static int none=0x7f050000;
-        public static int normal=0x7f050001;
-        public static int production=0x7f050007;
-        public static int sandbox=0x7f050008;
-        public static int satellite=0x7f050002;
-        public static int selectionDetails=0x7f05000b;
-        public static int strict_sandbox=0x7f050009;
-        public static int terrain=0x7f050003;
-        public static int wrap_content=0x7f05000d;
+        public static int book_now=0x7f07000e;
+        public static int buyButton=0x7f07000a;
+        public static int buy_now=0x7f07000f;
+        public static int buy_with_google=0x7f070010;
+        public static int classic=0x7f070011;
+        public static int grayscale=0x7f070012;
+        public static int holo_dark=0x7f070005;
+        public static int holo_light=0x7f070006;
+        public static int hybrid=0x7f070000;
+        public static int match_parent=0x7f07000c;
+        public static int monochrome=0x7f070013;
+        public static int none=0x7f070001;
+        public static int normal=0x7f070002;
+        public static int production=0x7f070007;
+        public static int sandbox=0x7f070008;
+        public static int satellite=0x7f070003;
+        public static int selectionDetails=0x7f07000b;
+        public static int strict_sandbox=0x7f070009;
+        public static int terrain=0x7f070004;
+        public static int wrap_content=0x7f07000d;
     }
     public static final class integer {
-        public static int google_play_services_version=0x7f060000;
+        public static int google_play_services_version=0x7f050000;
     }
     public static final class string {
         public static int auth_client_needs_enabling_title=0x7f030001;
@@ -521,15 +521,15 @@ containing a value of this type.
         public static int wallet_buy_button_place_holder=0x7f03001f;
     }
     public static final class style {
-        public static int WalletFragmentDefaultButtonTextAppearance=0x7f070002;
-        public static int WalletFragmentDefaultDetailsHeaderTextAppearance=0x7f070001;
-        public static int WalletFragmentDefaultDetailsTextAppearance=0x7f070000;
+        public static int WalletFragmentDefaultButtonTextAppearance=0x7f060002;
+        public static int WalletFragmentDefaultDetailsHeaderTextAppearance=0x7f060001;
+        public static int WalletFragmentDefaultDetailsTextAppearance=0x7f060000;
         /** 
          Default style of the wallet fragment that will be used if not set explicitly
          when fragment is created
     
          */
-        public static int WalletFragmentDefaultStyle=0x7f070003;
+        public static int WalletFragmentDefaultStyle=0x7f060003;
     }
     public static final class styleable {
         /** Attributes that can be used with a AdsAttrs.
@@ -570,7 +570,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:adSize
         */
-        public static final int AdsAttrs_adSize = 0;
+        public static int AdsAttrs_adSize = 0;
         /**
           <p>
           @attr description
@@ -590,7 +590,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:adSizes
         */
-        public static final int AdsAttrs_adSizes = 1;
+        public static int AdsAttrs_adSizes = 1;
         /**
           <p>
           @attr description
@@ -606,7 +606,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:adUnitId
         */
-        public static final int AdsAttrs_adUnitId = 2;
+        public static int AdsAttrs_adUnitId = 2;
         /** Attributes that can be used with a MapAttrs.
            <p>Includes the following attributes:</p>
            <table>
@@ -662,7 +662,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:cameraBearing
         */
-        public static final int MapAttrs_cameraBearing = 1;
+        public static int MapAttrs_cameraBearing = 1;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#cameraTargetLat}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -676,7 +676,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:cameraTargetLat
         */
-        public static final int MapAttrs_cameraTargetLat = 2;
+        public static int MapAttrs_cameraTargetLat = 2;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#cameraTargetLng}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -690,7 +690,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:cameraTargetLng
         */
-        public static final int MapAttrs_cameraTargetLng = 3;
+        public static int MapAttrs_cameraTargetLng = 3;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#cameraTilt}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -704,7 +704,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:cameraTilt
         */
-        public static final int MapAttrs_cameraTilt = 4;
+        public static int MapAttrs_cameraTilt = 4;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#cameraZoom}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -718,7 +718,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:cameraZoom
         */
-        public static final int MapAttrs_cameraZoom = 5;
+        public static int MapAttrs_cameraZoom = 5;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#mapType}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -738,7 +738,7 @@ containing a value of this type.
 </table>
           @attr name com.google.android.gms:mapType
         */
-        public static final int MapAttrs_mapType = 0;
+        public static int MapAttrs_mapType = 0;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#uiCompass}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -752,7 +752,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:uiCompass
         */
-        public static final int MapAttrs_uiCompass = 6;
+        public static int MapAttrs_uiCompass = 6;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#uiRotateGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -766,7 +766,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:uiRotateGestures
         */
-        public static final int MapAttrs_uiRotateGestures = 7;
+        public static int MapAttrs_uiRotateGestures = 7;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#uiScrollGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -780,7 +780,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:uiScrollGestures
         */
-        public static final int MapAttrs_uiScrollGestures = 8;
+        public static int MapAttrs_uiScrollGestures = 8;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#uiTiltGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -794,7 +794,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:uiTiltGestures
         */
-        public static final int MapAttrs_uiTiltGestures = 9;
+        public static int MapAttrs_uiTiltGestures = 9;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#uiZoomControls}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -808,7 +808,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:uiZoomControls
         */
-        public static final int MapAttrs_uiZoomControls = 10;
+        public static int MapAttrs_uiZoomControls = 10;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#uiZoomGestures}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -822,7 +822,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:uiZoomGestures
         */
-        public static final int MapAttrs_uiZoomGestures = 11;
+        public static int MapAttrs_uiZoomGestures = 11;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#useViewLifecycle}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -836,7 +836,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:useViewLifecycle
         */
-        public static final int MapAttrs_useViewLifecycle = 12;
+        public static int MapAttrs_useViewLifecycle = 12;
         /**
           <p>This symbol is the offset where the {@link com.google.android.gms.R.attr#zOrderOnTop}
           attribute's value can be found in the {@link #MapAttrs} array.
@@ -850,7 +850,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name com.google.android.gms:zOrderOnTop
         */
-        public static final int MapAttrs_zOrderOnTop = 13;
+        public static int MapAttrs_zOrderOnTop = 13;
         /**  Attributes for the WalletFragment &lt;fragment&gt; tag 
            <p>Includes the following attributes:</p>
            <table>
@@ -889,7 +889,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:environment
         */
-        public static final int WalletFragmentOptions_environment = 1;
+        public static int WalletFragmentOptions_environment = 1;
         /**
           <p>
           @attr description
@@ -908,7 +908,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:fragmentMode
         */
-        public static final int WalletFragmentOptions_fragmentMode = 3;
+        public static int WalletFragmentOptions_fragmentMode = 3;
         /**
           <p>
           @attr description
@@ -920,7 +920,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:fragmentStyle
         */
-        public static final int WalletFragmentOptions_fragmentStyle = 2;
+        public static int WalletFragmentOptions_fragmentStyle = 2;
         /**
           <p>
           @attr description
@@ -939,7 +939,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:theme
         */
-        public static final int WalletFragmentOptions_theme = 0;
+        public static int WalletFragmentOptions_theme = 0;
         /**  Attributes that may be specified in a style resource to customize the look and feel of
          WalletFragment 
            <p>Includes the following attributes:</p>
@@ -995,7 +995,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:buyButtonAppearance
         */
-        public static final int WalletFragmentStyle_buyButtonAppearance = 3;
+        public static int WalletFragmentStyle_buyButtonAppearance = 3;
         /**
           <p>
           @attr description
@@ -1024,7 +1024,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:buyButtonHeight
         */
-        public static final int WalletFragmentStyle_buyButtonHeight = 0;
+        public static int WalletFragmentStyle_buyButtonHeight = 0;
         /**
           <p>
           @attr description
@@ -1044,7 +1044,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:buyButtonText
         */
-        public static final int WalletFragmentStyle_buyButtonText = 2;
+        public static int WalletFragmentStyle_buyButtonText = 2;
         /**
           <p>
           @attr description
@@ -1073,7 +1073,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:buyButtonWidth
         */
-        public static final int WalletFragmentStyle_buyButtonWidth = 1;
+        public static int WalletFragmentStyle_buyButtonWidth = 1;
         /**
           <p>
           @attr description
@@ -1087,7 +1087,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:maskedWalletDetailsBackground
         */
-        public static final int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
+        public static int WalletFragmentStyle_maskedWalletDetailsBackground = 6;
         /**
           <p>
           @attr description
@@ -1101,7 +1101,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:maskedWalletDetailsButtonBackground
         */
-        public static final int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
+        public static int WalletFragmentStyle_maskedWalletDetailsButtonBackground = 8;
         /**
           <p>
           @attr description
@@ -1113,7 +1113,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:maskedWalletDetailsButtonTextAppearance
         */
-        public static final int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
+        public static int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance = 7;
         /**
           <p>
           @attr description
@@ -1125,7 +1125,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:maskedWalletDetailsHeaderTextAppearance
         */
-        public static final int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
+        public static int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance = 5;
         /**
           <p>
           @attr description
@@ -1144,7 +1144,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:maskedWalletDetailsLogoImageType
         */
-        public static final int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
+        public static int WalletFragmentStyle_maskedWalletDetailsLogoImageType = 10;
         /**
           <p>
           @attr description
@@ -1161,7 +1161,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name com.google.android.gms:maskedWalletDetailsLogoTextColor
         */
-        public static final int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
+        public static int WalletFragmentStyle_maskedWalletDetailsLogoTextColor = 9;
         /**
           <p>
           @attr description
@@ -1173,6 +1173,6 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>This is a private symbol.
           @attr name com.google.android.gms:maskedWalletDetailsTextAppearance
         */
-        public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
+        public static int WalletFragmentStyle_maskedWalletDetailsTextAppearance = 4;
     };
 }

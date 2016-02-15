@@ -7,7 +7,7 @@ import com.badlogic.gdx.math.MathUtils;
 public class DistanceFieldShader extends ShaderProgram {
 	public DistanceFieldShader() {
 		// The vert and frag files are copied from http://git.io/yK63lQ (vert) and http://git.io/hAcw9Q (the frag)
-		super(Gdx.files.internal("data\\shaders\\distancefield.vert"), Gdx.files.internal("data\\shaders\\distancefield.frag"));
+		super(Gdx.files.internal("data/shaders/distancefield.vert"), Gdx.files.internal("data/shaders/distancefield.frag"));
 		if (!isCompiled()) {
 			throw new RuntimeException("Shader compilation failed:\n" + getLog());
 		}

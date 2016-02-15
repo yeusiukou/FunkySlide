@@ -12,22 +12,22 @@ public class Fonts {
 	private static Texture sylfaenTexture;
 	
 	public static void load(){
-		mainTexture = new Texture(Gdx.files.internal("data\\fonts\\mountains.png"), true); // true enables mipmaps                           
-	    sagoescTexture = new Texture(Gdx.files.internal("data\\fonts\\segoesc.png"), true); // true enables mipmaps
-	    sylfaenTexture = new Texture(Gdx.files.internal("data\\fonts\\sylfaen.png"), true); // true enables mipmaps
+		mainTexture = new Texture(Gdx.files.internal("data/fonts/mountains.png"), true); // true enables mipmaps                           
+	    sagoescTexture = new Texture(Gdx.files.internal("data/fonts/segoesc.png"), true); // true enables mipmaps
+	    sylfaenTexture = new Texture(Gdx.files.internal("data/fonts/sylfaen.png"), true); // true enables mipmaps
 
 	}
 
 	public static BitmapFont getMainFont() {
-		return new BitmapFont(Gdx.files.internal("data\\fonts\\mountains.fnt"), new TextureRegion(mainTexture));
+		return new BitmapFont(Gdx.files.internal("data/fonts/mountains.fnt"), new TextureRegion(mainTexture));
 	}
 
 	public static BitmapFont getSagoescFont() {
-		return new BitmapFont(Gdx.files.internal("data\\fonts\\segoesc.fnt"), new TextureRegion(sagoescTexture));
+		return new BitmapFont(Gdx.files.internal("data/fonts/segoesc.fnt"), new TextureRegion(sagoescTexture));
 	}
 
 	public static BitmapFont getSylfaenFont() {
-		return new BitmapFont(Gdx.files.internal("data\\fonts\\sylfaen.fnt"), new TextureRegion(sylfaenTexture));
+		return new BitmapFont(Gdx.files.internal("data/fonts/sylfaen.fnt"), new TextureRegion(sylfaenTexture));
 	}
 
 }

@@ -19,8 +19,8 @@ public class GameData {
 	
 	private final static float ORIGINAL_WIDTH = 800;
 	public static float scale = Gdx.graphics.getWidth()/ORIGINAL_WIDTH; //Scale for drawing objects with the same size on different resolutions
-	private static String MENU_ATLAS_PATH = "data\\menu.pack";
-	private static String GAME_ATLAS_PATH = "data\\game.pack";
+	private static String MENU_ATLAS_PATH = "data/menu.pack";
+	private static String GAME_ATLAS_PATH = "data/game.pack";
 	
 	
 	
